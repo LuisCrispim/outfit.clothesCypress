@@ -1,5 +1,5 @@
 describe("must register new user", () => {
-  it("passes", () => {
+  it("must register new user", () => {
     cy.register();
   });
 });
